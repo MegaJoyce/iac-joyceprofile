@@ -7,8 +7,7 @@ variable "region" {
 variable "clusterName" {
   description = "Name of the EKS cluster"
   type        = string
-  default     = "joyceprofile-eks-cluster"
+  default     = "joyceprofile-eks"
 }
 
-##
 ##
